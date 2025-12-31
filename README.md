@@ -4,7 +4,14 @@ This add-on adds a search engine to the browser that lets you search
 By typing keywords such as `@lcsc 0603 10k`, you can quickly search
 for parts on LCSC.
 
-(Demo video)
+![](demo/demo.gif)
+
+## Advanced usage
+This add-on is also useful for searching by LCSC part numbers.
+If a valid LCSC part number is provided, LCSC will redirect
+to the corresponding part page.
+
+![](demo/demo.mp4)
 
 ## License
 This add-on is developed by extending discogs-search add-on in
