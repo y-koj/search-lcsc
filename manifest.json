@@ -1,13 +1,13 @@
 {
 
   "manifest_version": 2,
-  "name": "LCSC search engine",
-  "description": "Adds a search engine that searches lcsc.com",
+  "name": "Search LCSC",
+  "description": "This add-on adds a search engine that searches lcsc.com",
   "developer": {
       "name": "Yohei Kojima",
       "url": "https://github.com/y-koj/search-lcsc"
   },
-  "version": "1.0",
+  "version": "1.1",
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "65.0",
