@@ -3,6 +3,10 @@
   "manifest_version": 2,
   "name": "LCSC search engine",
   "description": "Adds a search engine that searches lcsc.com",
+  "developer": {
+      "name": "Yohei Kojima",
+      "url": "https://github.com/y-koj/search-lcsc"
+  },
   "version": "1.0",
   "browser_specific_settings": {
     "gecko": {
