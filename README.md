@@ -11,7 +11,7 @@ This add-on is also useful for searching by LCSC part numbers.
 If a valid LCSC part number is provided, LCSC will redirect
 to the corresponding part page.
 
-![](demo/demo.mp4)
+https://github.com/user-attachments/assets/ef8c4b5a-e53b-445c-8a43-28f76c932708
 
 ## License
 This add-on is developed by extending discogs-search add-on in
