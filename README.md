@@ -4,6 +4,8 @@ This add-on adds a search engine to the browser that lets you search
 By typing keywords such as `@lcsc 0603 10k`, you can quickly search
 for parts on LCSC.
 
+You can install this add-on from [this page](https://addons.mozilla.org/ja/firefox/addon/search-lcsc/).
+
 ![](demo/demo.gif)
 
 ## Advanced usage
